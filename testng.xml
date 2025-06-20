@@ -1,0 +1,8 @@
+<suite name = "Cucumber TestNG Suite" >
+
+    <test name = "Cucumber-RestAssured Scenario" >
+        <classes>
+            <class name = "runner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
